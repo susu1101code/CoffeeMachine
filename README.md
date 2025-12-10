@@ -24,7 +24,7 @@ The following four design patterns are applied in this project:
 
 ### Environmental requirements
 
-* **Java Development Kit (JDK) 8** or higher.
+* **Java Development Kit (JDK) 11** or higher.
 * The project needs to be imported in an IDE such as **IntelliJ IDEA** and supports **Maven/Gradle** dependency synchronization (for `Jackson` libraries).
 
 ### Startup Steps 
