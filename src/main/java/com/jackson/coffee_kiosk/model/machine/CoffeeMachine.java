@@ -5,9 +5,6 @@ import com.jackson.coffee_kiosk.model.entity.Coffees;
 import com.jackson.coffee_kiosk.model.entity.Coin;
 import com.jackson.coffee_kiosk.model.entity.MenuItem;
 import com.jackson.coffee_kiosk.model.factory.CoffeeFactory;
-import com.jackson.coffee_kiosk.model.machine.state.MakingState;
-import com.jackson.coffee_kiosk.model.machine.state.OrderingState;
-import com.jackson.coffee_kiosk.model.machine.state.StandbyState;
 import com.jackson.coffee_kiosk.model.machine.state.State;
 import com.jackson.coffee_kiosk.model.payment.Payment;
 

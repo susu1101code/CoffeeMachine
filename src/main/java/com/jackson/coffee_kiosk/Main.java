@@ -1,8 +1,6 @@
 package com.jackson.coffee_kiosk;
 
 import com.jackson.coffee_kiosk.controller.CoffeeController;
-import com.jackson.coffee_kiosk.model.entity.Coffee;
-import com.jackson.coffee_kiosk.model.entity.Ingredient;
 import com.jackson.coffee_kiosk.model.entity.MenuItem;
 import com.jackson.coffee_kiosk.model.machine.CoffeeMachine;
 import com.jackson.coffee_kiosk.model.machine.Inventory;

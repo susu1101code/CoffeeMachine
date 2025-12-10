@@ -1,17 +1,13 @@
 package com.jackson.coffee_kiosk.model.machine.state;
 
-import com.jackson.coffee_kiosk.model.entity.Ingredient;
-import com.jackson.coffee_kiosk.model.entity.MenuItem;
 import com.jackson.coffee_kiosk.model.machine.CoffeeMachine;
 import com.jackson.coffee_kiosk.model.machine.CoffeeMachineMock;
 import com.jackson.coffee_kiosk.model.machine.Inventory;
 import com.jackson.coffee_kiosk.model.machine.command.Command;
-import com.jackson.coffee_kiosk.model.payment.Payment;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import java.util.List;
 import java.util.HashMap;
 
 import static org.junit.jupiter.api.Assertions.*;

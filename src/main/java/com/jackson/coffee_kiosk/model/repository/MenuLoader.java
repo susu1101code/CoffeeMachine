@@ -6,7 +6,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.jackson.coffee_kiosk.model.entity.Coffees;
 import com.jackson.coffee_kiosk.model.entity.MenuItem;
 
-import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
