@@ -1,0 +1,28 @@
+# =======================================================
+# IntelliJ IDEA / OS Files
+# =======================================================
+# Default ignored files (Your original block)
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+.idea/
+*.iml
+*.ipr
+*.iws
+
+.DS_Store
+
+*.class
+
+/out/
+/target/
+/build/
+
+*.jar
+*.war
+*.ear
